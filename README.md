@@ -2,7 +2,7 @@ The python code to invite user to your organization
 
 ## The first step before using this code
 
-```cp .env.example .env```
+change ```.env.example``` to ```.env``` by using ```cp .env.example .env``` in your command line
 
 ## Create Virtual Environment
 
